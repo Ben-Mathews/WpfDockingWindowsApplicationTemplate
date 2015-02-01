@@ -21,9 +21,6 @@
                 <xcad:DockingManager.DocumentHeaderTemplate>
                     <DataTemplate>
                         <StackPanel Orientation="Horizontal">
-                            <Image Source="{Binding IconSource}"
-                            Margin="0,0,4,0" />
-                            <TextBlock Text="{Binding Title}" />
                         </StackPanel>
                     </DataTemplate>
                 </xcad:DockingManager.DocumentHeaderTemplate>
